@@ -14,3 +14,7 @@ src
 React-router
 react-router-dom을 사용한다.
 npm i react-router-dom
+
+Redux
+npm i redux react-redux
+스토어 = 상태관리를 위한 전역 저장소
